@@ -84,8 +84,11 @@ def adding_matz
      }
 
   programmer_hash[:yukihiro_matsumoto] = {known_for: "Ruby", languages: ["LISP", "C"]}
+<<<<<<< HEAD
   
   programmer_hash
+=======
+>>>>>>> 4b7c7da4b5bfa4ddcc4c1e6f1639e70b8080cccf
 end
 
 def changing_alan
